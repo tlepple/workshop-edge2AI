@@ -90,7 +90,7 @@ Navigate to the CDSW **Admin** page to fine tune the environment:
 Return to the main page and click on **New Project**, using this GitHub project as the source:
 
 ```
-https://github.com/phdata/edge2ai-workshop
+https://github.com/tlepple/workshop-edge2ai
 ```
 
 ![](./images/cdsw_clone_project.gif)
@@ -180,7 +180,7 @@ Before we can start tracking workflows in MiNiFi (via EFM) or NiFi we need to co
 - Connect to NiFi Registry: http://public-hostname:18080/nifi-registry
 - Create a New Bucket:
   - Wrench in top right -> Click "New Bucket"
-  - Create a new bucket named "iot" **<- Case Sensitive!**
+  - Create a new bucket named "IoT" **<- Case Sensitive!**
 
 ![](./images/nifi_registry.gif)
 
