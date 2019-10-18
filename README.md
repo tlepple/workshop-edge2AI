@@ -1,12 +1,19 @@
 # Machine Learning on IOT Data for Predictive Maintenance
 
+### Acknowledgments:
+* The bulk of the materials in this training were developed by Fabio Ghirardello and his original repository is here: [IoT-Predictive Maintenance](https://github.com/fabiog1901/IoT-predictive-maintenance)
+* Special Thanks to Keith Smith with phData for the images and documentaion for this workshop!
+
+---
+
+
 ## Intro
 
 In this workshop, you will build an end-to-end Machine Learning workflow following the principles set by a typical data ingestion pipeline.
 
 ![](./images/ml_application_process.png)
 
-The architecture we will use to accomplish this in this workshop is as follows.
+The architecture we will use to accomplish this in the workshop is as follows.
 
 ![](./images/edge2ai-workflow-overview.png)
 
