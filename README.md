@@ -8,7 +8,7 @@ In this workshop, you will build an end-to-end Machine Learning workflow followi
 
 The architecture we will use to accomplish this in this workshop is as follows.
 
-![](./images/edge2ai-workflow-overview.jpg)
+![](./images/edge2ai-workflow-overview.png)
 
 ### Workshop Requirements:
 
