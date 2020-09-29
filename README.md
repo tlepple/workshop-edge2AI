@@ -187,7 +187,7 @@ Before we can start tracking workflows in MiNiFi (via EFM) or NiFi we need to co
 - Connect to NiFi Registry: http://public-hostname:18080/nifi-registry
 - Create a New Bucket:
   - Wrench in top right -> Click "New Bucket"
-  - Create a new bucket named "IoT" **<- Case Sensitive!**
+  - Create a new bucket named "iot" **<- Case Sensitive!**
 
 ![](./images/nifi_registry.gif)
 
