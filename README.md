@@ -225,8 +225,10 @@ Start the InputPort, but keep the LogAttribute in a stopped state.
 Back to the Flow Designer, add a _Remote Process Group_ to the canvas and configure it as follows:
 
 ```
-URL = http://<hostname>:8080/nifi
+URL = http://<private IP Address of host>:8080/nifi
 ```
+
+* Also ensure that the `TRANSPORT PROTOCOL` is set to `HTTP` and NOT `RAW`
 
 Once complete, connect the ConsumeMQTT to the RPG via the connection ID copied from the NiFi gateway.
 
