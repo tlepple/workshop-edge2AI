@@ -97,14 +97,11 @@ Navigate to the CDSW **Admin** page to fine tune the environment:
 Return to the main page and click on **New Project**, using this GitHub project as the source:
 
 ```
-https://github.com/tlepple/workshop-edge2ai
+git clone https://github.com/tlepple/workshop-edge2ai-project.git
 ```
 
 ![](./images/cdsw_clone_project.gif)
 
-After cloning and entering the project the first step of the process will be deleting the `images` folder from the repository. This is necessary to ensure Docker builds are small and only exists for reference purposes in the README/walkthrough.
-
-![](./images/cdsw_delete_images.gif)
 
 Now that your project has been created, click on **Open Workbench** and start a Python3 Session with 2 vCPU/ 4 GiB Memory
 
