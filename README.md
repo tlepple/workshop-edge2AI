@@ -111,7 +111,6 @@ Now that your project has been created, click on **Open Workbench** and start a 
 
 Once the Engine is ready, run the following command to install some required libraries and copy the historical dataset into HDFS:
 ```
-!pip3 install --upgrade pip scikit-learn
 !hdfs dfs -put data/historical_iot.txt /user/$HADOOP_USER_NAME
 ```
 
