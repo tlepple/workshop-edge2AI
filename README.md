@@ -71,6 +71,9 @@ Logging into **Hue** for the first time makes the user provided the admin user. 
 
 ![](./images/hue_login.png)
 
+---
+---
+
 When logging into **CDSW** it is required to create a new user, please ensure the same username is used that was used with HUE.
 
 ![](./images/cdsw_login.png)
