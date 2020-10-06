@@ -88,6 +88,11 @@ The **Cloudera Manager** login is the default credentials when CM is first start
 ---
 ---
 
+## Setup CDSW
+
+---
+
+
 When logging into **CDSW** it is required to create a new user, please ensure the same username is used that was used with HUE.
 
 ![](./images/cdsw_login.png)
