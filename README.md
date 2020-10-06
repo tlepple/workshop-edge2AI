@@ -97,7 +97,7 @@ Navigate to the CDSW **Admin** page to fine tune the environment:
 Return to the main page and click on **New Project**, using this GitHub project as the source:
 
 ```
-git clone https://github.com/tlepple/workshop-edge2ai-project.git
+https://github.com/tlepple/workshop-edge2ai-project.git
 ```
 
 ![](./images/cdsw_clone_project.gif)
