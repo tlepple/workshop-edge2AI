@@ -70,16 +70,19 @@ The **Cloudera Manager** login is the default credentials when CM is first start
 ---
 ---
 
+## Setup Hue items 
+
+
+Logging into **Hue** for the first time makes the user provided the admin user. For the purpose of this workshop keep it easy and use the same credentials as Cloudera Manager (admin/admin). If you do use a different username, ensure that same user (case sensitive) is used when creating the CDSW user.
+
+![](./images/hue_login.png)
+
 ###  Need to navigate to the `Manage Users` 
 
 1.  Click on the username `admin` to bring up the is user.
 2.  Select the option `Create home directory`
 3.  Click the `Update user` button.
 4.  You can exit `Hue` now
-
-Logging into **Hue** for the first time makes the user provided the admin user. For the purpose of this workshop keep it easy and use the same credentials as Cloudera Manager (admin/admin). If you do use a different username, ensure that same user (case sensitive) is used when creating the CDSW user.
-
-![](./images/hue_login.png)
 
 ---
 ---
