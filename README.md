@@ -72,8 +72,9 @@ The **Cloudera Manager** login is the default credentials when CM is first start
 
 ## Setup Hue items 
 
+---
 
-Logging into **Hue** for the first time makes the user provided the admin user. For the purpose of this workshop keep it easy and use the same credentials as Cloudera Manager (admin/admin). If you do use a different username, ensure that same user (case sensitive) is used when creating the CDSW user.
+* Logging into **Hue** for the first time makes the user provided the admin user. For the purpose of this workshop keep it easy and use the same credentials as Cloudera Manager (admin/admin). If you do use a different username, ensure that same user (case sensitive) is used when creating the CDSW user.
 
 ![](./images/hue_login.png)
 
